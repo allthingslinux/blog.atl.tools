@@ -1,0 +1,20 @@
+repo_name: allthingslinux/blog.atl.tools
+report_id: d5f1ab410f6b08a0c74f5ad129664a27
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-22T18:01:20+00:00'
+requested_by: electron271
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/allthingslinux/blog.atl.tools
+  detection_source: Repo Metadata
