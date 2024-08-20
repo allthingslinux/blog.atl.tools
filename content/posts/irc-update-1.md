@@ -4,7 +4,7 @@ date = 2024-08-20T13:14:25-05:00
 draft = false
 +++
 
-After a long while of waiting we are happy to announce the first IRC/XMPP progress update.
+After a lot of waiting we are happy to announce the first IRC/XMPP progress update.
 
 Here are all of the updates since the initial shutdown due to abuse.
 
@@ -22,6 +22,8 @@ Currently, the discussion is focused on the following topics:
 Due to IRC being older and less modern than XMPP, it is possible that XMPP may gain priority. We currently rely on the [Ergo](https://github.com/ergochat/ergo) IRC server software due to its modern features and ease of use, however it is likely that we will switch to a different software in the future.
 
 A [issue](https://github.com/ergochat/ergo/issues/2179) was made on the Ergo GitHub repository to discuss slowmode/filters.
+
+Update as of Aug 20 8:00 PM UTC: A plan has been drafted and we are waiting on approval from the higher-ups.
 
 ## XMPP
 XMPP runs [Prosody](https://prosody.im/) as the server software. Due to prosody's module system and being more modern than IRC, it is likely that XMPP will be easier to moderate and maintain.
